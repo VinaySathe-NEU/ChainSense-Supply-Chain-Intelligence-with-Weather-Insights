@@ -1,0 +1,2 @@
+# ChainSense-Supply-Chain-Intelligence-with-Weather-Insights
+This project implements a Retrieval-Augmented Generation (RAG) system for supply chain and weather analysis. It preprocesses data, generates embeddings with OpenAI, and stores vectors in Pinecone for semantic search. Real-time weather data is dynamically integrated, and GPT combines contexts to deliver accurate, contextually grounded answers.
